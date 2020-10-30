@@ -30,5 +30,6 @@ public function getAdresse(){
 return $this->_adresse;}
 public function getContact(){
 return $this->_contact;}
+
 };
 ?>
